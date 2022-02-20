@@ -1,0 +1,9 @@
+
+.login-div{
+    margin: 0 auto;
+    width: 400px;
+    transform: translateY(35vh);
+}
+body{
+    background-color: #f0f0f0;
+}
